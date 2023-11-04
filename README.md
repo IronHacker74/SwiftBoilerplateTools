@@ -3,8 +3,8 @@ This repo serves as a tool for both old and new iOS developers. Every project ne
 The design of this is to jump start development projects.
 While this could have been developed using an Xcode project and added using Cocoapods or SwiftPackageManager, it is designed to simply be folders of tool files that you can download into your project.
 
-[Utilities](#utilities)
-[UIKit+](#uikit+)
+[Utilities](#utilities)<br>
+[UIKit+](#uikit+)<br><br>
 
 ## Utilities
 #### Alert
