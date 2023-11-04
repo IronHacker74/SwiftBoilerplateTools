@@ -3,9 +3,9 @@ This repo serves as a tool for both old and new iOS developers. Every project ne
 <br>The design of this is to jump start development projects.<br>
 While this could have been developed using an Xcode project and added using Cocoapods or SwiftPackageManager, it is designed to simply be folders of tool files that you can download into your project.
 
-#### Boilerplate Tools<br>
-[Utilities](#utilities)<br>
-[UIKit+](#uikit)<br><br>
+<br><br>**Boilerplate Tools**<br>
+• [Utilities](#utilities)<br>
+• [UIKit+](#uikit)<br><br>
 
 ## Utilities
 This serves as a list of generalized tools that are not directly found in any iOS API, but we happen to use them quite a bit in iOS. It just made sense to add these in.
