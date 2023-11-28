@@ -1,7 +1,7 @@
 # Boilerplate Tools for Swift Projects
 Jump start your deep development projects.<br><br>
 This repo serves as a tool for both old and new iOS developers. Every project needs tools to ease early development phases.<br>
-While this could have been developed using an Xcode project and added using Cocoapods or SwiftPackageManager, it is designed to simply be folders of tool files that you can download into your project.
+While this could have been developed using an Xcode project and added using Cocoapods or SwiftPackageManager, it is designed to simply be folders of tool files that you can download into your project and use/edit as required.
 
 <br>**Boilerplate Tools**<br>
 • [Utilities](#utilities)<br>
